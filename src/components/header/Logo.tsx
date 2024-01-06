@@ -1,12 +1,12 @@
 // react
-import React from "react";
+import React from 'react';
 // third-party
-import { FormattedMessage } from "react-intl";
+import { FormattedMessage } from 'react-intl';
 // application
-import AppLink from "~/components/shared/AppLink";
-import url from "~/services/url";
+import AppLink from '~/components/shared/AppLink';
+import url from '~/services/url';
 
-import { LogoCOLORHSvg } from "~/svg";
+import { LogoCOLORHSvg } from '~/svg';
 
 interface Props extends React.HTMLAttributes<HTMLElement> {}
 
